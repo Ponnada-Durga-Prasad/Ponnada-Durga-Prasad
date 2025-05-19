@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hello World, I'm Durga Prasad Ponnada!
 
-<!--
-**Ponnada-Durga-Prasad/Ponnada-Durga-Prasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Dreamer | 🧠 Mindset Architect | 💻 Aspiring SDE | 💪 Self-Discipline Warrior
 
-Here are some ideas to get you started:
+I'm on a mission to become the **most powerful person and richest man in the world**, not just in wealth, but in mindset, strength, and purpose.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Current Focus:
+- Learning Full Stack Development @ Masai School
+- Practicing self-discipline, focus, and high-performance habits
+- Removing 1 bad habit & building 1 powerful habit every week
+- Preparing for entrepreneurship, leadership & legacy
+
+🛠️ Tech Stack:
+- JavaScript, Node.js, Express
+- PostgreSQL, MongoDB
+- React, HTML, CSS
+
+📚 Favorite Books:  
+- *Think and Grow Rich*  
+- *The Millionaire Fastlane*  
+- *Can't Hurt Me*
+
+🧘‍♂️ Life Beliefs:
+> "Mastering yourself is the true path to mastering the world."
+
+📫 Connect with me:
+- [LinkedIn]([https://www.linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/durga-prasad-ponnada/))
+- Email: durgaprasadponnada06@gmail.com
+
+---
+
+Thank you for visiting! I'm coding my destiny 🚀
