@@ -24,7 +24,7 @@ I'm on a mission to become the **most powerful person and richest man in the wor
 > "Mastering yourself is the true path to mastering the world."
 
 📫 Connect with me:
-- [LinkedIn]([https://www.linkedin.com/in/durga-prasad-ponnada/])
+- [LinkedIn](https://www.linkedin.com/in/durga-prasad-ponnada/)
 - Email: durgaprasadponnada06@gmail.com
 
 ---
